@@ -1,7 +1,5 @@
 # ConvertMyMoney - Curso Fullstack Master
 
-[![HitCount](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box.svg)](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box)
-
 Este projeto foi construído no curso Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://front-end-next-js-palpite-box.vercel.app/.
 
 ## Início
