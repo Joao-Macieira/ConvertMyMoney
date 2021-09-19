@@ -1,6 +1,6 @@
 # ConvertMyMoney - Curso Fullstack Master
 
-Este projeto foi construído no curso Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://front-end-next-js-palpite-box.vercel.app/.
+Este projeto foi construído no curso Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://convert-my-money-joao-macieira.vercel.app/.
 
 ## Início
 
